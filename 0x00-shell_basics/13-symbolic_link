@@ -1,0 +1,1 @@
+sudos ln -s /bin/ls /_ls_/13-symbolic_link
